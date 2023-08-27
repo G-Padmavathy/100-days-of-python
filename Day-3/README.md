@@ -75,4 +75,6 @@ else:
     </li> 
 </ol>
 </body>
+<h2>Treasure Island</h2>
+<img src="https://github.com/G-Padmavathy/100-days-of-python/assets/96161598/977666a8-1ae8-4adb-b82c-476ef1a9ff34" alt="treasure island">
 </html>
