@@ -9,3 +9,5 @@
   <li>Combining Dictionaries and Functions</li>
 </ul>
 <h2>Calculator</h2>
+
+![calculator](https://github.com/G-Padmavathy/100-days-of-python/assets/96161598/468e833f-6b21-427a-8778-4d4fc494ec5b)
