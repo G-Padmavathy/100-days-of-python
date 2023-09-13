@@ -10,7 +10,7 @@ print(f"Your current score is: {current_score}")
 while True:
     compare_1 = random.choice(data)
     compare_2 = random.choice(data)
-
+    # We can use the continue statement with the if loop to skip the current iteration of the loop.
     if compare_1 == compare_2:
         continue
 
@@ -26,5 +26,6 @@ while True:
         print(f"You're right! Your current score is: {current_score}")
     else:
         print(f"Sorry, that's incorrect. Your final score is: {current_score}")
+        # We can use the break statement else condition to terminate the loop when a certain condition is met. 
         break
 
